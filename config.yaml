@@ -1,0 +1,7 @@
+{
+    "port": "5555",
+    "password": "your_password",
+    "logfile": "tor_control.log",
+    "auth_methods": "HASHEDPASSWORDhhhhhh",
+    "version": "0.4.6.5"
+}
