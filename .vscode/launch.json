@@ -11,6 +11,8 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "args": [
+                "-config",
+                "D:/go/src/protocol-simulator/LPD/config.yaml"
             ]
         }
     ]

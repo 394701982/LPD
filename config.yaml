@@ -1,7 +1,7 @@
 {
-    "port": "5555",
-    "password": "your_password",
-    "logfile": "tor_control.log",
-    "auth_methods": "HASHEDPASSWORDhhhhhh",
-    "version": "0.4.6.5"
+  "server_name": "lpd",
+  "banner_message": "Print-services are not available to your host",
+  "version": "1.0",
+  "port": 515,
+  "log_file_path": "lpd_server.log"
 }
